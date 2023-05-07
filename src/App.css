@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.text{
+  color:aliceblue;
+
+}
+
+#mid{
+  display: flex;
+  flex-wrap: inherit;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+#co{
+  padding: 10px;
+}
+
+#but{
+  color: aliceblue;
+  text-decoration: none;
+}
+
+#but2{
+  color: aliceblue;
+  text-decoration: none;
+}
